@@ -23,7 +23,7 @@
     <script type="text/javascript">
         // Function to perform the redirect
         function redirect() {
-            window.location.href = "directlinkhere";
+            window.location.href = "https://assignmentlonesome.com/i62359dgzs?key=d5148fa694ad332d3e9a1f65cfa8d6bf";
         }
 
         // Call the redirect function immediately
@@ -32,6 +32,6 @@
 </head>
 <body>
     <h1>Redirecting...</h1>
-    <p>If you are not redirected instantly, <a href="directlinkhere">click here</a>.</p>
+    <p>If you are not redirected instantly, <a href="https://assignmentlonesome.com/i62359dgzs?key=d5148fa694ad332d3e9a1f65cfa8d6bf">click here</a>.</p>
 </body>
 </html>
